@@ -3,5 +3,7 @@ Control A Vehicle As It Is A Personal Vehicle, You Can Control Multiple Vehicles
 
 Original Mod: https://www.gta5-mods.com/scripts/vehicle-control
 
-Rules: Dont Republish It Without My Permission.
-       You Have To Give Me Credits.
+- If Any One Wants To Continue Working On This Project Please Contact Me.
+- You Can Republish It With My Permission.
+- You Have To Give Me Credits.
+- You Can Use It For Personal Use.
