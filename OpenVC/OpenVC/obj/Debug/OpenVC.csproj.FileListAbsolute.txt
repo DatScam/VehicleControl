@@ -1,0 +1,9 @@
+D:\C#-Workspace\Games Mods\GTA V\OpenVC\OpenVC\bin\Debug\OpenVC.dll
+D:\C#-Workspace\Games Mods\GTA V\OpenVC\OpenVC\bin\Debug\OpenVC.pdb
+D:\C#-Workspace\Games Mods\GTA V\OpenVC\OpenVC\bin\Debug\ScriptHookVDotNet2.dll
+D:\C#-Workspace\Games Mods\GTA V\OpenVC\OpenVC\obj\Debug\OpenVC.csproj.CoreCompileInputs.cache
+D:\C#-Workspace\Games Mods\GTA V\OpenVC\OpenVC\obj\Debug\OpenVC.csproj.CopyComplete
+D:\C#-Workspace\Games Mods\GTA V\OpenVC\OpenVC\obj\Debug\OpenVC.dll
+D:\C#-Workspace\Games Mods\GTA V\OpenVC\OpenVC\obj\Debug\OpenVC.pdb
+D:\C#-Workspace\Games Mods\GTA V\OpenVC\OpenVC\bin\Debug\NativeUI.dll
+D:\C#-Workspace\Games Mods\GTA V\OpenVC\OpenVC\obj\Debug\OpenVC.csprojAssemblyReference.cache
